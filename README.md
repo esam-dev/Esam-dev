@@ -1,7 +1,8 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Elías Ortiz<br>💻 Desarrollador Web | Estudiante de Ciencias Informáticas<br> Apasionado por la tecnología conocimientos en Python,Javascript, C#, HTML5 y CSS 🎯 Estoy con metas de ir aprendiendo cada día más sobres nuevas herramientas e ir fundamentando más mis conocimientos en los lenguajes. 🌱 Aprendiendo: Python, SQL Server, React, Next.js.<br><br>🧠 Tecnologías y herramientas que manejo:<br>💻 Lenguajes: C#, Python, JavaScript<br>🌐 Frontend: HTML, CSS, React (en aprendizaje)<br>🛠️ Backend: C# con Windows Forms, SQL Server, ADO.NET<br>💾 Base de Datos: SQL Server, MySQL<br>🧰 Otros: Git, GitHub, Visual Studio, Netlify<br>📈 Mis Stats en GitHub:<br>Elias GitHub stats<br><br>📫 Contactame:<br><br>📧 [Mail] emails.eliasortiz@gmail.com<br>💼 LinkedIn<br>🌐 Mi portafolio<br>⚡ Un poco más sobre mí:<br>🎓 Estudiante de Lic. en Ciencias Informáticas<br>🔍 Aprendiendo nuevas tecnologías cada semana<br>🚀 Buscando mi primera experiencia laboral como dev<br>💬 Me gusta compartir lo que aprendo y ayudar a otros<br>Gracias por ver mi perfil 🙌<br>¡Seguimos aprendiendo y construyendo!
-
-
+👋 ¡Hola! Soy Elías Ortiz<br>💻 Desarrollador Web | Estudiante de Ciencias Informáticas<br> Apasionado por la tecnología me encanta saber como es que funciona nuestro alrededor en cuanto a los productos digitales que usamos en nuestro día a día , también me gusta aportar en proyectos open sources que generan un impacto en la Sociedad.
+🎯 Estoy con metas de ir aprendiendo cada día más sobres nuevas herramientas e ir fundamentando más mis conocimientos en los lenguajes. 🌱 Aprendiendo: Python, SQL Server, React, Next.js.<br><br>🧠 Tecnologías y herramientas que manejo:<br>💻 Lenguajes: C#, Python, JavaScript<br>.
+🌐 Frontend: HTML, CSS, React (en aprendizaje)<br>🛠️ Backend: C# con Windows Forms, SQL Server, ADO.NET<br>💾 Base de Datos: SQL Server, MySQL<br>🧰 Otros: Git, GitHub, Visual Studio, Netlify<br>📈 Mis Stats en GitHub:<br>Elias GitHub stats<br><br>
+📫 Contactame:<br><br>📧 [Mail] emails.eliasortiz@gmail.com<br>💼 LinkedIn<br>🌐 Mi portafolio<br>⚡ Un poco más sobre mí:<br>🎓 Estudiante de Lic. en Ciencias Informáticas<br>🔍 Aprendiendo nuevas tecnologías cada semana<br>🚀 Buscando mi primera experiencia laboral como dev<br>💬 Me gusta compartir lo que aprendo y ayudar a otros<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ElíasOrtiz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliassamu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ElíasOrtiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emails.eliasortiz@gmail.com) 
 
@@ -23,5 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EliasDesarrollador&icon=0&color=0)](https://visitcount.itsvg.in)
+
+**Gracias por ver mi perfil 🙌<br>¡Seguimos aprendiendo y construyendo!**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
