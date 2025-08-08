@@ -3,6 +3,95 @@
 🎯 Estoy con metas de ir aprendiendo cada día más sobres nuevas herramientas e ir fundamentando más mis conocimientos en los lenguajes. 🌱 Aprendiendo: Python, SQL Server, React, Next.js.<br><br>🧠 Tecnologías y herramientas que manejo:<br>💻 Lenguajes: C#, Python, JavaScript<br>.
 🌐 Frontend: HTML, CSS, React (en aprendizaje)<br>🛠️ Backend: C# con Windows Forms, SQL Server, ADO.NET<br>💾 Base de Datos: SQL Server, MySQL<br>🧰 Otros: Git, GitHub, Visual Studio, Netlify<br>
 📫 Contactame:⚡ Un poco más sobre mí:<br>🎓 Estudiante de Lic. en Ciencias Informáticas<br>🔍 Aprendiendo nuevas tecnologías cada semana<br>🚀 Buscando mi primera experiencia laboral como dev<br>💬 Me gusta compartir lo que aprendo y ayudar a otros<br>
+💫 Sobre mí
+
+👋 ¡Hola! Soy Elías Ortiz
+💻 Desarrollador Web en formación | Apasionado por la tecnología y el aprendizaje constante
+
+Desde que empecé en el mundo de la programación, me atrapó la forma en que las líneas de código pueden transformar ideas en soluciones reales. Me apasiona entender cómo funcionan los productos digitales que usamos a diario, y busco siempre ir más allá: crear herramientas útiles, resolver problemas concretos y aprender algo nuevo todos los días.
+
+Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y también colaborar en proyectos open source que generen un impacto en la comunidad. Mis proyectos suelen enfocarse en el aprendizaje práctico: sistemas de gestión, sitios administrables, juegos educativos y más.
+🎯 Objetivos y pretensiones profesionales:
+
+    Conseguir mi primera experiencia laboral como desarrollador, ya sea en prácticas, freelance o remoto.
+
+    Continuar especializándome en desarrollo web fullstack, especialmente con herramientas modernas como React, Next.js, Node.js y Strapi.
+
+    Aportar valor a equipos de trabajo con compromiso, buena comunicación y ganas de crecer.
+
+    A largo plazo: convertirme en un desarrollador senior y seguir aportando a la comunidad tech.
+
+🌱 Actualmente aprendiendo:
+
+    Python (enfocado a automatización y backend)
+
+    React & Next.js (frontend moderno)
+
+    SQL Server y MySQL (base de datos)
+
+    Desarrollo de APIs con Node.js y Strapi
+
+    Control de versiones con Git y buenas prácticas
+
+🧠 Tecnologías que manejo:
+
+💻 Lenguajes:
+
+    C#
+
+    Python
+
+    JavaScript
+
+🌐 Frontend:
+
+    HTML, CSS
+
+    React (en progreso)
+
+    TailwindCSS
+
+🛠️ Backend:
+
+    C# con Windows Forms
+
+    SQL Server, ADO.NET
+
+    Node.js (básico)
+
+💾 Bases de Datos:
+
+    SQL Server
+
+    MySQL
+
+🧰 Otras herramientas:
+
+    Git & GitHub
+
+    Visual Studio
+
+    Netlify
+
+    VS Code
+
+    Postman
+
+📫 Contacto
+
+Estoy abierto a propuestas, colaboraciones y oportunidades.
+📧 Email: [Tu correo]
+🌐 LinkedIn: [Tu perfil]
+📍 Paraguay (disponibilidad para trabajo remoto)
+⚡ Más sobre mí:
+
+🎓 Estudiante de Lic. en Ciencias Informáticas
+🔍 Me gusta aprender nuevas tecnologías cada semana
+🚀 Estoy construyendo un portafolio que refleje todo lo que sé y todo lo que quiero lograr
+💬 Me gusta compartir lo que aprendo y ayudar a otros estudiantes como yo
+🌍 Mi sueño: trabajar con equipos internacionales, en proyectos que cambien el mundo
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ElíasOrtiz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliassamu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ElíasOrtiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emails.eliasortiz@gmail.com) 
 
