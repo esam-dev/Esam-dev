@@ -1,5 +1,6 @@
 
 👋 ¡Hola! Soy Elías Ortiz
+
 💻 Desarrollador Web en formación | Apasionado por la tecnología y el aprendizaje constante
 
 Desde que empecé en el mundo de la programación, me atrapó la forma en que las líneas de código pueden transformar ideas en soluciones reales. Me apasiona entender cómo funcionan los productos digitales que usamos a diario, y busco siempre ir más allá: crear herramientas útiles, resolver problemas concretos y aprender algo nuevo todos los días.
@@ -14,6 +15,16 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
     Aportar valor a equipos de trabajo con compromiso, buena comunicación y ganas de crecer.
 
     A largo plazo: convertirme en un desarrollador senior y seguir aportando a la comunidad tech.
+
+
+    
+🧠 Tecnologías y herramientas que manejo:
+💻 Lenguajes: C#, Python, JavaScript
+. 🌐 Frontend: HTML, CSS, React (en aprendizaje)
+🛠️ Backend: C# con Windows Forms, SQL Server, ADO.NET
+💾 Base de Datos: SQL Server, MySQL
+🧰 Otros: Git, GitHub, Visual Studio, Netlify.
+
 
 🌱 Actualmente aprendiendo:
 
