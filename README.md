@@ -1,7 +1,7 @@
 
 👋 ¡Hola! Soy Elías Ortiz
 
-💻 Desarrollador Web en formación | Apasionado por la tecnología y el aprendizaje constante
+💻 Desarrollador Web  | Apasionado por la tecnología y el aprendizaje constante
 
 Desde que empecé en el mundo de la programación, me atrapó la forma en que las líneas de código pueden transformar ideas en soluciones reales. Me apasiona entender cómo funcionan los productos digitales que usamos a diario, y busco siempre ir más allá: crear herramientas útiles, resolver problemas concretos y aprender algo nuevo todos los días.
 
