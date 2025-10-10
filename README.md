@@ -21,9 +21,9 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 🧠 Tecnologías y herramientas que manejo:
 💻 Lenguajes: C#, Python, JavaScript
 . 🌐 Frontend: HTML, CSS, React (en aprendizaje)
-🛠️ Backend: C# con Windows Forms, SQL Server, ADO.NET
-💾 Base de Datos: SQL Server, MySQL
-🧰 Otros: Git, GitHub, Visual Studio, Netlify.
+🛠️ Backend: Python C# con Windows Forms, SQL Server, ADO.NET
+💾 Base de Datos:PostgreSQL, SQL Server, MySQL
+🧰 Otros: Git, GitHub, Visual Studio, Netlify,Vercel
 
 
 🌱 Actualmente aprendiendo:
@@ -34,7 +34,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     SQL Server y MySQL (base de datos)
 
-    Desarrollo de APIs con Node.js y Strapi
+    Desarrollo de APIs con Node.js 
 
     Control de versiones con Git y buenas prácticas
 
@@ -58,6 +58,8 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
 🛠️ Backend:
 
+    Python - Django
+    
     C# con Windows Forms
 
     SQL Server, ADO.NET
@@ -65,6 +67,8 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
     Node.js (básico)
 
 💾 Bases de Datos:
+
+    Postgre
 
     SQL Server
 
@@ -76,18 +80,15 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     Visual Studio
 
+    Vercel
+
     Netlify
 
     VS Code
 
-    Postman
 
-📫 Contacto
 
 Estoy abierto a propuestas, colaboraciones y oportunidades.
-📧 Email: [Tu correo]
-🌐 LinkedIn: [Tu perfil]
-📍 Paraguay (disponibilidad para trabajo remoto)
 ⚡ Más sobre mí:
 
 🎓 Estudiante de Lic. en Ciencias Informáticas
@@ -96,6 +97,7 @@ Estoy abierto a propuestas, colaboraciones y oportunidades.
 💬 Me gusta compartir lo que aprendo y ayudar a otros estudiantes como yo
 🌍 Mi sueño: trabajar con equipos internacionales, en proyectos que cambien el mundo
 
+📫 Contacto
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ElíasOrtiz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliassamu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ElíasOrtiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emails.eliasortiz@gmail.com) 
