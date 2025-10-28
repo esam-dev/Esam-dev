@@ -6,6 +6,7 @@
 Desde que empecé en el mundo de la programación, me atrapó la forma en que las líneas de código pueden transformar ideas en soluciones reales. Me apasiona entender cómo funcionan los productos digitales que usamos a diario, y busco siempre ir más allá: crear herramientas útiles, resolver problemas concretos y aprender algo nuevo todos los días.
 
 Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y también colaborar en proyectos open source que generen un impacto en la comunidad. Mis proyectos suelen enfocarse en el aprendizaje práctico: sistemas de gestión, sitios administrables, juegos educativos y más.
+
 🎯 Objetivos y pretensiones profesionales:
 
     Conseguir mi primera experiencia laboral como desarrollador, ya sea en prácticas, freelance o remoto.
