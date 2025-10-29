@@ -15,17 +15,17 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     React & Next.js (frontend moderno)
 
-    SQL Server y MySQL (base de datos)
+    Postgres y MySQL (base de datos)
 
     Desarrollo de APIs con Node.js 
 
     Control de versiones con Git y buenas prácticas
 
-🧠 Tecnologías que manejo:
-
 💻 Lenguajes:
 
     C#
+
+    Java
 
     Python
 
@@ -43,31 +43,13 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     Python - Django
     
-    C# con Windows Forms
-
-    SQL Server, ADO.NET
-
-    Node.js (básico)
+    C# con Windows For
+    Node.js 
 
 💾 Bases de Datos:
 
     Postgre
-
-    SQL Server
-
     MySQL
-
-🧰 Otras herramientas:
-
-    Git & GitHub
-
-    Visual Studio
-
-    Vercel
-
-    Netlify
-
-    VS Code
 
 ⚡ Más sobre mí:
 
