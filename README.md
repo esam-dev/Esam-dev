@@ -7,24 +7,6 @@ Desde que empecé en el mundo de la programación, me atrapó la forma en que la
 
 Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y también colaborar en proyectos open source que generen un impacto en la comunidad. Mis proyectos suelen enfocarse en el aprendizaje práctico: sistemas de gestión, sitios administrables, juegos educativos y más.
 
-🎯 Objetivos y pretensiones profesionales:
-
-    Conseguir mi primera experiencia laboral como desarrollador, ya sea en prácticas, freelance o remoto.
-
-    Continuar especializándome en desarrollo web fullstack, especialmente con herramientas modernas como React, Next.js, Node.js y Strapi.
-
-    Aportar valor a equipos de trabajo con compromiso, buena comunicación y ganas de crecer.
-
-    A largo plazo: convertirme en un desarrollador senior y seguir aportando a la comunidad tech.
-
-
-    
-🧠 Tecnologías y herramientas que manejo:
-💻 Lenguajes: C#, Python, JavaScript
-. 🌐 Frontend: HTML, CSS, React (en aprendizaje)
-🛠️ Backend: Python C# con Windows Forms, SQL Server, ADO.NET
-💾 Base de Datos:PostgreSQL, SQL Server, MySQL
-🧰 Otros: Git, GitHub, Visual Studio, Netlify,Vercel
 
 
 🌱 Actualmente aprendiendo:
@@ -87,16 +69,11 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     VS Code
 
-
-
-Estoy abierto a propuestas, colaboraciones y oportunidades.
 ⚡ Más sobre mí:
 
 🎓 Estudiante de Lic. en Ciencias Informáticas
-🔍 Me gusta aprender nuevas tecnologías cada semana
-🚀 Estoy construyendo un portafolio que refleje todo lo que sé y todo lo que quiero lograr
+🔍 Me gusta aprender nuevas tecnologías.
 💬 Me gusta compartir lo que aprendo y ayudar a otros estudiantes como yo
-🌍 Mi sueño: trabajar con equipos internacionales, en proyectos que cambien el mundo
 
 📫 Contacto
 
