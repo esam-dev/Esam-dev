@@ -17,7 +17,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
     Postgres y MySQL (base de datos)
 
-    Desarrollo de APIs con Node.js 
+    Desarrollo de APIs con Spring  
 
     Control de versiones con Git y buenas prácticas
 
@@ -41,14 +41,17 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambi�
 
 🛠️ Backend:
 
+    Java - Spring Boot
+
     Python - Django
     
     C# con Windows For
+    
     Node.js 
 
 💾 Bases de Datos:
 
-    Postgre
+    Postgres
     MySQL
 
 ⚡ Más sobre mí:
