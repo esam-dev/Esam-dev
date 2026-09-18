@@ -9,7 +9,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambiÃ
 
 
 
-ğŸŒ± Actualmente aprendiendo:
+ Actualmente aprendiendo:
 
     Python (enfocado a automatizaciÃ³n y backend)
 
@@ -21,7 +21,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambiÃ
 
     Control de versiones con Git y buenas prÃ¡cticas
 
-ğŸ’» Lenguajes:
+ Lenguajes:
 
     C#
 
@@ -31,7 +31,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambiÃ
 
     JavaScript
 
-ğŸŒ Frontend:
+ Frontend:
 
     HTML, CSS
 
@@ -39,7 +39,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambiÃ
 
     TailwindCSS
 
-ğŸ› ï¸ Backend:
+ Backend:
 
     Java - Spring Boot
 
@@ -49,7 +49,7 @@ Me gusta trabajar en proyectos personales, hacer pruebas, experimentar, y tambiÃ
     
     Node.js 
 
-ğŸ’¾ Bases de Datos:
+ Bases de Datos:
 
     Postgres
     MySQL
